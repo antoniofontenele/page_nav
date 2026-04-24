@@ -1,1 +1,1 @@
-(https://antoniofontenele.github.io/page_nav/
+https://antoniofontenele.github.io/page_nav/
